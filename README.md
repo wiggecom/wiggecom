@@ -74,9 +74,31 @@ More fun stuff coming soon!*
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wiggecom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/> <br/>
+  ### Videos
+  <div align="center">
+    <hr>
+    ConsoleRacing on YouTube<br>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+   <img src="https://github.com/wiggecom/wiggecom/assets/92576203/d5d3a65e-80c2-473c-82b7-dad0e7b06ea7" alt="ConsoleRacing on YouTube" width="500" height="281" border="10" />
+  </a>
+    <br><br>
+    Merry X-Mas on YouTube<br>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=pJfRBHDmAmw" target="_blank">
+   <img src="https://github.com/wiggecom/wiggecom/assets/92576203/423f9c07-ccf7-4d03-bf7a-5bb8fa153c14" alt="Merry X-Mas on YouTube" width="500" height="281" border="10" />
+  </a>
+    <br><br>
+    Ascii Painter v3.0 on YouTube<br>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=tkEeCbORr7o" target="_blank">
+   <img src="https://github.com/wiggecom/wiggecom/assets/92576203/877df5a9-c33c-4d07-ac49-6b8bb9f8cde3" alt="Ascii Painter v3.0 on YouTube" width="500" height="272" border="10" />
+  </a>
+    <br><br>
 
 
+  </div>
+<br>
+<hr>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wiggecom&&style=flat-square" align="center" />
 </div>  
